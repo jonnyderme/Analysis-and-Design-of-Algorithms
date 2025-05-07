@@ -70,4 +70,24 @@ Given a string of length `n` and a list of `m` split points, each **split costs 
 
 ---
 
-## 📁 Repository Structure
+```
+📁 Repository Structure
+
+├── README.md                        # Project overview and theoretical documentation for all problems
+
+├── Assignment/          # Algorithms Optional Assignment (ADA - 2024)
+│   ├── Coursework/                 # Report and written problem analysis
+│   │   └── ADA_Assignment_2024.pdf # Final report with problem explanations and team info
+│
+│   ├── Python Code/               # Full implementation of all problems and demos
+│   │   ├── Demo1_Ref.py            # Reference implementation for Problem 1 (graph routing)
+│   │   ├── Demo1_prob1_2.py        # Combined logic for Problems 1.1 and 1.2
+│   │   ├── Demo2_Ref.py            # Reference for priority queue and SJF scheduling
+│   │   ├── Demo3_v2.py             # Dynamic programming for string splitting (Problem 3)
+│   │   ├── Demo_Prob2.py           # Greedy solution for minimizing total wait time
+│   │   ├── Demo_Prob_3.py          # Optimal string segmentation using dynamic programming
+│   │   ├── Demo_SJF.py             # Specific implementation of Shortest Job First queue
+│   │   └── Demo_p1.py              # Fuel-constrained shortest path solution (Problem 1)
+│
+│   └── Report_Team_21.pdf         # Exported final team report (optional or backup version)
+```
