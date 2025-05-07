@@ -3,7 +3,11 @@
 Optional coursework for the **Analysis and Design οf Algorithms** course  
 Faculty of Engineering, AUTh  
 School of Electrical and Computer Engineering  
+Electronics and Computers Department
 
+📚 *Course:*  Analysis and Design οf Algorithms   
+🏛️ *Faculty:* AUTh - School of Electrical and Computer Engineering  
+📅 *Semester:* 6th Semester, 2023–2024
 
 ---
 
